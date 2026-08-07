@@ -85,7 +85,7 @@ This project analyzes retail and e-commerce sales data using Microsoft Excel and
 
 ## 📷 Dashboard Preview
 
-![Retail & E-Commerce Sales Dashboard](Dashboard.png)
+![Retail & E-Commerce Sales Dashboard](Images/Dashboard.png)
 
 ---
 
