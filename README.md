@@ -70,6 +70,19 @@ This project analyzes retail and e-commerce sales data using Microsoft Excel and
 
 ---
 
+## 📈 Key Business Outcomes
+
+- Identified monthly sales trends and seasonal sales patterns.
+- Determined the highest-performing product categories and sub-categories.
+- Compared sales and profit across different regions and customer segments.
+- Analyzed customer payment methods and purchasing behavior.
+- Evaluated the impact of discounts on sales and profitability.
+- Identified product return patterns and major return reasons.
+- Built an interactive Power BI dashboard using DAX measures and slicers.
+- Generated actionable business insights and recommendations to support decision-making.
+
+---
+
 ## 📷 Dashboard Preview
 
 ![Retail & E-Commerce Sales Dashboard](Dashboard.png)
