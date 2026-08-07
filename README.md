@@ -18,6 +18,25 @@ This project analyzes retail and e-commerce sales data using Microsoft Excel and
 
 ---
 
+## ❓ Business Questions
+
+This project answers the following key business questions:
+
+1. How are sales performing over time?
+2. Which product categories generate the highest sales and profit?
+3. Which sub-categories generate the highest sales and profit?
+4. Which products generate the highest sales and profit?
+5. Which brands contribute the highest sales and profit?
+6. Which customer segments contribute the most sales and profit?
+7. Which regions and states perform the best?
+8. Which shipping modes are used most frequently, and how do they impact sales?
+9. Which payment methods are preferred by customers?
+10. How do discounts affect sales and profit?
+11. Which products are returned most frequently, and what are the return reasons?
+12. What is the overall business performance based on KPIs?
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
