@@ -1,1 +1,1 @@
-This folder contains the cleaned retail and e-commerce sales dataset used for analysis.
+This folder contains the original dataset, cleaned dataset, and Excel-based exploratory data analysis (EDA) used in the project.
